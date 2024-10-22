@@ -12,7 +12,7 @@ title                    : "Zahra Abbasi"
 title_separator          : "-"
 name                     : &name "Zahra Abbasi"
 description              : &description "personal description"
-url                      : https://zahra-abbasi-vault.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zahra-abbasi-vault.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zahra-abbasi-vault/zahra-abbasi-vault.github.io"
 
