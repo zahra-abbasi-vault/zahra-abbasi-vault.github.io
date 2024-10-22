@@ -223,9 +223,6 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
   projects:
     output: false
     permalink: /:collection/:path/
