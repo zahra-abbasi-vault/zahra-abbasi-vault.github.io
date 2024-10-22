@@ -8,8 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="font-size: 2.5em; color: #333; border-bottom: 2px solid #333; padding-bottom: 10px; text-align: center;">Zahra Abbasi</h1>
-
 ## Education
 ---
 
