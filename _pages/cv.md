@@ -8,12 +8,17 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="font-size: 2.5em; color: #333; border-bottom: 2px solid #333; padding-bottom: 10px;">Zahra Abbasi</h1>
+<h1 style="font-size: 2.5em; color: #333; border-bottom: 2px solid #333; padding-bottom: 10px; text-align: center;">Zahra Abbasi</h1>
 
 ## Education
 ---
 
-**B.Sc. in Computer Engineering**, Alzahra University, *Sep 2019 - Aug 2023*
+<p style="text-align: left;">
+  <strong style="font-size: 1.1em;">B.Sc. in Computer Engineering</strong>
+  <span style="float: right; font-style: italic;">Sep 2019 - Aug 2023</span><br>
+  <em>Alzahra University</em>
+</p>
+
 - Overall GPA: 3.89
 - Last Four Semesters GPA: 4.0
 - Second highest GPA among Computer Engineering students entering 2019
@@ -21,7 +26,12 @@ redirect_from:
 ## Work Experience
 ---
 
-**Machine Learning Engineer**, Pooya Fanavaran Kosar (Tehran), *Jul 2023 - Present*
+<p style="text-align: left;">
+  <strong style="font-size: 1.1em;">Machine Learning Engineer</strong>
+  <span style="float: right; font-style: italic;">Jul 2023 - Present</span><br>
+  <em>Pooya Fanavaran Kosar (Tehran)</em>
+</p>
+
 - Python Developer
 - Developed and optimized computer vision solutions for real-world applications
 - Proficient in training deep learning models for various computer vision tasks
@@ -59,18 +69,52 @@ redirect_from:
 ## Academic Courses
 ---
 
-| Course | Grade |
-|--------|-------|
-| Applied Linear Algebra | 4.0/4.0 |
-| Engineering Probability and Statistics | 4.0/4.0 |
-| Basics and applications of Artificial Intelligence | 4.0/4.0 |
-| Basics of Computational Intelligence | 4.0/4.0 |
-| Data Mining | 4.0/4.0 |
-| Big Data | 4.0/4.0 |
-| The Basics of Cloud Computing | 4.0/4.0 |
-| Principles of Database Design | 4.0/4.0 |
-| The Theory of Languages and Machines | 4.0/4.0 |
-| Data Structures and Algorithms | 4.0/4.0 |
+<table style="width: 80%; margin: 0 auto; text-align: center;">
+  <tr>
+    <th style="text-align: center;">Course</th>
+    <th style="text-align: center;">Grade</th>
+  </tr>
+  <tr>
+    <td>Applied Linear Algebra</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>Engineering Probability and Statistics</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>Basics and applications of Artificial Intelligence</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>Basics of Computational Intelligence</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>Data Mining</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>Big Data</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>The Basics of Cloud Computing</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>Principles of Database Design</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>The Theory of Languages and Machines</td>
+    <td>4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>Data Structures and Algorithms</td>
+    <td>4.0/4.0</td>
+  </tr>
+</table>
 
 ## Online Courses
 ---
