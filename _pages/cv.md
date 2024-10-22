@@ -62,80 +62,80 @@ redirect_from:
 
 **IELTS**
 
-<table style="width: 80%; margin: 0 auto; border-collapse: collapse;">
+<table style="width: 70%; margin: 0 auto; border-collapse: collapse;">
   <tr style="background-color: #f2f2f2;">
-    <th style="padding: 8px; text-align: left; border: 1px solid #ddd;">Skill</th>
-    <th style="padding: 8px; text-align: center; border: 1px solid #ddd;">Score</th>
+    <th style="padding: 6px; text-align: left; border: 1px solid #ddd;">Skill</th>
+    <th style="padding: 6px; text-align: center; border: 1px solid #ddd;">Score</th>
+  </tr>
+  <tr style="font-weight: bold;">
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Overall</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">7.5</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Overall</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">7.5</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Reading</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">8.5</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Reading</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">8.5</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Listening</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">8.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Listening</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">8.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Speaking</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">7.5</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Speaking</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">7.5</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Writing</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">6.5</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Writing</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">6.5</td>
   </tr>
 </table>
 
 ## Academic Courses
 ---
 
-<table style="width: 80%; margin: 0 auto; border-collapse: collapse;">
+<table style="width: 70%; margin: 0 auto; border-collapse: collapse;">
   <tr style="background-color: #f2f2f2;">
-    <th style="padding: 8px; text-align: left; border: 1px solid #ddd; width: 80%;">Course</th>
-    <th style="padding: 8px; text-align: center; border: 1px solid #ddd; width: 20%;">Grade</th>
+    <th style="padding: 6px; text-align: left; border: 1px solid #ddd; width: 80%;">Course</th>
+    <th style="padding: 6px; text-align: center; border: 1px solid #ddd; width: 20%;">Grade</th>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Applied Linear Algebra</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Applied Linear Algebra</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Engineering Probability and Statistics</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Engineering Probability and Statistics</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Basics and applications of Artificial Intelligence</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Basics and applications of Artificial Intelligence</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Basics of Computational Intelligence</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Basics of Computational Intelligence</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Data Mining</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Data Mining</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Big Data</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Big Data</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">The Basics of Cloud Computing</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">The Basics of Cloud Computing</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Principles of Database Design</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Principles of Database Design</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">The Theory of Languages and Machines</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">The Theory of Languages and Machines</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
   <tr>
-    <td style="padding: 8px; text-align: left; border: 1px solid #ddd;">Data Structures and Algorithms</td>
-    <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
+    <td style="padding: 6px; text-align: left; border: 1px solid #ddd;">Data Structures and Algorithms</td>
+    <td style="padding: 6px; text-align: center; border: 1px solid #ddd;">4.0/4.0</td>
   </tr>
 </table>
 
@@ -150,14 +150,16 @@ redirect_from:
 
 ### Sampi Sorter for PFK Co.
 Contributed to the development of The Sampi Sorter, an intelligent agricultural grain sorter. In this industrial project, I served as an AI developer. My responsibilities included training a YOLO model for accurate bean detection and subsequently training a CNN to classify each detected bean into its respective category. This project presented challenging tasks in both detection and classification, ultimately improving efficiency in the sorting process.
-[https://www.sorter.ir](https://www.sorter.ir/en/){:target="_blank"}
+
+[Project Website: www.sorter.ir](https://www.sorter.ir/en/){:target="_blank"}
 
 ### Smart Pedestrian Crosswalk for PFK Co.
 Engineered a comprehensive safety system utilizing Deep Stream for precise pedestrian detection on crosswalks and radar technology to identify approaching vehicles. Implemented on Jetson Orin Nano, this system is designed to enhance road safety by issuing timely warnings to both pedestrians and drivers, ensuring a proactive approach to preventing potential accidents at crosswalks.
 
 ### Karabin Embedded Camera for PFK Co
 The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR. In this project, I played a role in enhancing its capabilities by integrating a vehicle-type classification module. This addition expanded the functionality of the system, providing advanced features for efficient vehicle monitoring and categorization.
-[https://www.cam2vision.com](https://www.cam2vision.com){:target="_blank"}
+
+[Project Website: www.cam2vision.com](https://www.cam2vision.com){:target="_blank"}
 
 ### Level-1 ADAS Project for SAIPA and PFK Co
 This Level-1 ADAS project utilizes a monocular camera with an NVIDIA Jetson Nano board. After more than 6 months of focused research, we have effectively created and optimized AI and Computer Vision algorithms, meeting the specified performance goals for the Departure Warning (LDW) and High Beam Assist (HBA) systems. I contributed to the design of the CNN architecture and decision-making algorithms of HBA in this project.
