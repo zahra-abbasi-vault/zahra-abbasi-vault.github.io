@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # # Publications markdown generator for academicpages
@@ -86,14 +85,22 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
     
+    # Add image field if it exists
+    if 'image' in item and len(str(item.image)) > 5:
+        md += "\nimage: '" + item.image + "'"
+    
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
     
     ## Markdown description for individual page
     
+    # Add image to the content if it exists
+    if 'image' in item and len(str(item.image)) > 5:
+        md += f"\n\n![{item.title}]({item.image})\n"
+    
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+        md += "\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
@@ -104,5 +111,3 @@ for row, item in publications.iterrows():
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
-
