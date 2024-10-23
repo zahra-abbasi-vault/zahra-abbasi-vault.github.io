@@ -80,18 +80,21 @@ for row, item in publications.iterrows():
     
     md += "\ndate: " + str(item.pub_date) 
     
-    # Add image field if it exists
-    if 'image' in item and pd.notna(item.image) and len(str(item.image)) > 5:
-        md += "\nheader:\n  teaser: '" + item.image + "'"
+    # Check if 'image_path' exists and is not empty
+    if 'image_path' in item and pd.notna(item.image_path) and item.image_path.strip():
+        # Ensure the image path is properly formatted
+        image_path = item.image_path.strip()
+        md += f"\nheader:\n  teaser: '{image_path}'"
     
     md += "\n---"
     
     ## Markdown description for individual page
     
     # Add image to the content if it exists
-    if 'image' in item and pd.notna(item.image) and len(str(item.image)) > 5:
-        md += f"\n\n![{item.title}]({item.image})\n"
-    
+    if 'image_path' in item and pd.notna(item.image_path) and item.image_path.strip():
+        image_path = item.image_path.strip()
+        md += f"\n\n![{html_escape(item.title)}]({image_path})\n"
+
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
     
