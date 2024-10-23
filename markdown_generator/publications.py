@@ -71,43 +71,31 @@ for row, item in publications.iterrows():
     
     md = "---\ntitle: \""   + item.title + '"\n'
     
-    md += """collection: publications"""
+    md += """collection: projects"""
     
-    md += """\npermalink: /publication/""" + html_filename
+    md += """\npermalink: /project/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
     
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
-    
-    if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
-    
     # Add image field if it exists
-    if 'image' in item and len(str(item.image)) > 5:
-        md += "\nimage: '" + item.image + "'"
-    
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
+    if 'image' in item and pd.notna(item.image) and len(str(item.image)) > 5:
+        md += "\nheader:\n  teaser: '" + item.image + "'"
     
     md += "\n---"
     
     ## Markdown description for individual page
     
     # Add image to the content if it exists
-    if 'image' in item and len(str(item.image)) > 5:
+    if 'image' in item and pd.notna(item.image) and len(str(item.image)) > 5:
         md += f"\n\n![{item.title}]({item.image})\n"
     
-    if len(str(item.paper_url)) > 5:
-        md += "\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
-        
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
-        
-    md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_publications/" + md_filename, 'w') as f:
+    with open("../_projects/" + md_filename, 'w') as f:
         f.write(md)
