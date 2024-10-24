@@ -5,6 +5,7 @@ category: projects
 permalink: /project/Karabin-Embedded-Camera
 excerpt: 'Karabin-Embedded-Camera'
 date: 2023-08-01
+des : 2023-08-01 , pouya fanavaran kosar 
 
 ---
 

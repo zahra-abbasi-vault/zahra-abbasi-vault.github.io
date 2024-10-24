@@ -5,6 +5,7 @@ category: projects
 permalink: /project/Smart-Pedestrian-Crosswalk 
 excerpt: 'Smart Pedestrian Crosswalk '
 date: 2023-08-01
+des : 2023-08-01 , pouya fanavaran kosar 
 
 ---
 
