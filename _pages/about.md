@@ -13,7 +13,7 @@ redirect_from:
   }
   .justify-text a {
     color: #808080;
-    text-decoration: underline;s
+    text-decoration: None;
   }
 </style>
 
