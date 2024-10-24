@@ -2,7 +2,7 @@
 title: "Sampi Sorter Machine"
 collection: projects
 category: projects
-permalink: /project/project-1
+permalink: /project/Sampi-Sorter-Machine
 excerpt: 'Sampi Sorter is a state-of-the-art sorting machine crafted to cater to the diverse needs of the agricultural industry. Leveraging advanced technology and innovative features, it efficiently sorts a wide range of products, including nuts, grains, dried fruits, chips, and more.'
 date: 2023-01-01 - present
 image: /images/sorchine.png
