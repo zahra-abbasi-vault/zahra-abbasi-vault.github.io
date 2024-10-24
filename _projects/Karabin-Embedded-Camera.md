@@ -1,9 +1,9 @@
 ---
-title: "Face Mask Detection"
+title: "Karabin-Embedded-Camera"
 collection: projects
 category: projects
-permalink: /project/Face-Mask-Detection
-excerpt: 'Face Mask Detection'
+permalink: /project/Karabin-Embedded-Camera
+excerpt: 'Karabin-Embedded-Camera'
 date: 2023-08-01
 
 ---

@@ -43,15 +43,6 @@ layout: default
         {% endif %}    
 
 
-      {% if page.collection == 'projects' %}
-        <p>{{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-      {% elsif page.venue and page.date %}
-        <p>{{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-      <!-- {% elsif page.date %} -->
-        <!-- <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date: "%Y-%m" }}">{{ page.date | default: "1900-01-01" | date: "%B %Y" }}</time></p> -->
-      {% endif %} 
-
-
         </header>
       {% endunless %}
 

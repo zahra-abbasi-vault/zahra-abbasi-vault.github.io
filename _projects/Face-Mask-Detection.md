@@ -1,9 +1,9 @@
 ---
-title: "Face Mask Detection"
+title: "Level-1 ADAS"
 collection: projects
 category: projects
-permalink: /project/Face-Mask-Detection
-excerpt: 'Face Mask Detection'
+permalink: /project/Level-1-ADAS
+excerpt: 'Level-1-ADAS'
 date: 2023-08-01
 
 ---
