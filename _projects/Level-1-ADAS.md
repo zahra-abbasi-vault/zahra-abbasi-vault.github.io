@@ -4,7 +4,7 @@ collection: projects
 category: projects
 permalink: /project/project-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2023
+date: 2023-08-01
 
 ---
 
