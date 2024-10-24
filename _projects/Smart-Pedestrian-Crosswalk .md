@@ -1,9 +1,9 @@
 ---
-title: "Level-1 ADAS"
+title: "Smart Pedestrian Crosswalk "
 collection: projects
 category: projects
-permalink: /project/Level-1-ADAS
-excerpt: 'Level-1-ADAS'
+permalink: /project/Smart-Pedestrian-Crosswalk 
+excerpt: 'Smart Pedestrian Crosswalk '
 date: 2023-08-01
 
 ---
