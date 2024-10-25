@@ -145,8 +145,10 @@ redirect_from:
 - Advanced Learning algorithms from Coursera
 - Supervised Machine Learning: Regression and Classification from Coursera
 
-<!-- ## Projects
----
+## Projects
+
+Read about my projects <a href="/projects">here</a>
+<!-- ---
 
 ### Sampi Sorter for PFK Co.
 Contributed to the development of The Sampi Sorter, an intelligent agricultural grain sorter. In this industrial project, I served as an AI developer. My responsibilities included training a YOLO model for accurate bean detection and subsequently training a CNN to classify each detected bean into its respective category.
