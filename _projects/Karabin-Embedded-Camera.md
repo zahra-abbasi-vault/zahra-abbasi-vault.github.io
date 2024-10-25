@@ -4,9 +4,9 @@ collection: projects
 category: projects
 permalink: /project/Karabin-Embedded-Camera
 excerpt: 'Karabin-Embedded-Camera'
-date: 2023-08-01
-des : 2023-08-01 , pouya fanavaran kosar 
+date: 2023-01-01
+des : 2023 , Pouya Fanavaran Kosar
 
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR. In this project, I played a role in enhancing its capabilities by integrating a vehicle-type classification module. This addition expanded the functionality of the system, providing advanced features for efficient vehicle monitoring and categorization.
