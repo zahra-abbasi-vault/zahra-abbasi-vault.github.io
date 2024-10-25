@@ -145,7 +145,7 @@ redirect_from:
 - Advanced Learning algorithms from Coursera
 - Supervised Machine Learning: Regression and Classification from Coursera
 
-## Projects
+<!-- ## Projects
 ---
 
 ### Sampi Sorter for PFK Co.
@@ -164,4 +164,4 @@ The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring 
 This Level-1 ADAS project utilizes a monocular camera with an NVIDIA Jetson Nano board. After more than 6 months of focused research, we have effectively created and optimized AI and Computer Vision algorithms, meeting the specified performance goals for the Departure Warning (LDW) and High Beam Assist (HBA) systems. I contributed to the design of the CNN architecture and decision-making algorithms of HBA in this project.
 
 ### Face Mask Detection System for B.Sc. Final Project
-A system designed to detect faces and utilize a Convolutional Neural Network (CNN) for accurate classification based on individuals' mask-wearing status. This project served as my bachelor's thesis, earning a commendable 4.0/4.0 grade.
+A system designed to detect faces and utilize a Convolutional Neural Network (CNN) for accurate classification based on individuals' mask-wearing status. This project served as my bachelor's thesis, earning a commendable 4.0/4.0 grade. -->
