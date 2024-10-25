@@ -29,6 +29,6 @@ des : 2023-2024 , Pouya Fanavaran Kosar
 
 
 
-### Project Demo Structure
+### Project Demo 
 ![safecrosswalk2](images/safecrosswalk2.png)
 
