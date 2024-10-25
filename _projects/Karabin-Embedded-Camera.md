@@ -3,7 +3,7 @@ title: "Karabin-Embedded-Camera"
 collection: projects
 category: projects
 permalink: /project/Karabin-Embedded-Camera
-excerpt: 'Improving the accuracy of persian plate recognition and vehicle type and model clasdification on Speed trap cameras image processing.'
+excerpt: 'The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR.'
 date: 2023-10-01
 des : 2023 , Pouya Fanavaran Kosar
 
@@ -11,7 +11,10 @@ des : 2023 , Pouya Fanavaran Kosar
 
 <p style="text-align: justify;">The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR. The process of LPR is done exclusively and independently of any external processing unit, requiring only a power supply. Its output includes license plates and images of passing vehicles.</p>
 
-![karabin-1](/images/Karabin.png)
+<p style="text-align: justify;"> I contributed to the improvement of this system by improving the accuracy of persian plate recognition, vehicle type and vehicle model clasdification,</p>
+
+
+<img src="/images/Karabin.png" alt="karabin" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 
 ## My Contributions
 
