@@ -13,19 +13,18 @@ des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
 
 <p style="text-align: justify;">I contributed to the design of the CNN architecture and decision-making algorithms of HBA in this projet</p>
 
-## Challenges
-
-<p style="text-align: justify;">Due to the hardware limitations of the Jetson Nano, I had to optimize the model size and the inference time to meet the real-time requirements. Furthermore, situable datasets were not available for training the HBA model , so I had to create my own dataset. For this perpous I used CVAT annotation tool to detect objects (such as street lights , signs , vehicles front and rear lights , ...). Thanks to our annotating team, the dataset was ready in a short time</p>
-
-![HBA-5](/images/hba-5.PNG)
-![HBA-3](/images/hba-3.PNG)
- 
-
-
-## Demo
 
 ![hba-1](/images/hba-1.jpg)
 
 
+## Challenges
 
-![hba-2](/images/hba-2.jpg)
+<p style="text-align: justify;">Due to the hardware limitations of the Jetson Nano, I had to optimize the model size and the inference time to meet the real-time requirements. Furthermore, situable datasets were not available for training the HBA model , so I had to create my own dataset. For this perpous I used CVAT annotation tool to detect objects (such as street lights , signs , vehicles front and rear lights , etc). Thanks to our annotating team, the dataset was ready in a short time</p>
+
+![HBA-7](/images/hba-7.PNG)
+
+ 
+
+
+
+
