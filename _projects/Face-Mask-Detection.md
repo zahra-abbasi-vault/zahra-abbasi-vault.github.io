@@ -4,7 +4,7 @@ collection: projects
 category: projects
 permalink: /project/Face-Mask-Detection
 excerpt: 'A system designed to detect faces and classify individuals based on their mask-wearing status.'
-date: 2023-08-01
+date: 2023-05-01
 des : 2023 , Bachelor's Degree Project
 ---
 
