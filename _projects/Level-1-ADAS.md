@@ -3,15 +3,14 @@ title: "Level-1-ADAS"
 collection: projects
 category: projects
 permalink: /project/Level-1-ADAS
-excerpt: 'Level-1 ADAS project utilizes a monocular camera with an NVIDIA Jetson Nano board'
+excerpt: 'Level-1 Advanced Driver Assistance System'
 date: 2023-10-01
 des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
 
 ---
 
 <p style="text-align: justify;">
-This Level-1 ADAS project utilizes a monocular camera with an NVIDIA Jetson Nano board. 
-After more than 6 months of focused research, AI and Computer Vision algorithms were created and optimized, 
+Level-1 Advanced Driver Assistance System (ADAS). After more than 6 months of focused research, AI and Computer Vision algorithms were created and optimized, 
 meeting the specified performance goals for the Departure Warning (LDW) and High Beam Assist (HBA) systems. </p>
 
 <p style="text-align: justify;">I contributed to the design of the CNN architecture and decision-making algorithms of HBA in this projet.</p>
