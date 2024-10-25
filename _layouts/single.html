@@ -42,7 +42,7 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date: "%Y-%m" }}">{{ page.date | default: "1900-01-01" | date: "%B %Y" }}</time></p>
         {% endif %}  -->
 
-        {% if post.des %}
+        {% if page.des %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong>  {{page.des}}<p>
         {% endif %}
 
