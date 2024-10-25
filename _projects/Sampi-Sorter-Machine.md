@@ -18,7 +18,7 @@ des : 2023 - present , Pouya Fanavaran Kosar
 
 ## Detection Model Output
 
-One of the challenges I faced was detecting coffee beans in the image below. Due to the hardware limitations, the model's input size couldn't be increased much, and for the tracking algorithm, the box loss needed to decrease as much as possible. In the end, the model achieved 99% accuracy in detection.
+<p style="text-align: justify;">One of the challenges I faced was detecting coffee beans in the image below. Due to the hardware limitations, the model's input size couldn't be increased much, and for the tracking algorithm, the box loss needed to decrease as much as possible. In the end, the model achieved 99% accuracy in detection.</p>
 
 
 ![Sampi Sorter Machine](/images/Sorter_Yolo.bmp)
@@ -26,12 +26,11 @@ One of the challenges I faced was detecting coffee beans in the image below. Due
 
 ## Classification Model Output
 
-Below are some of the outputs of the classification models.
-The images are of the latest product, coffee beans, that were added to the system.
-I trained different models for each type of the defect.
+
+<p style="text-align: justify;">Below are some of the outputs of the classification models. The images are of the latest product, coffee beans, that were added to the system. I trained different models for each type of the defect.</p>
 
 ### Detecting Shell
- shell is common defect where coffee beans have a large cavity similar to a shell.
+<p style="text-align: justify;">Shell is a common defect where coffee beans have a large cavity similar to a shell.</p>
 
 ![Coffee Shell detection](/images/shell_positive_1.bmp)
 
@@ -41,7 +40,7 @@ I trained different models for each type of the defect.
 
 ### Detecting Coffee Berry Borer Damaged
 
-The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers. 
+<p style="text-align: justify;">The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers.</p>
 
 ![Coffee Berry Borer detection](/images/CBB-positive-1.bmp)
 
