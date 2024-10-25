@@ -26,10 +26,7 @@ des : 2023 , Pouya Fanavaran Kosar
 
 
 
-
 ### Vehicle Model Recognition
-<p style="text-align: justify;">I spearheaded the development of a model recognition system for vehicles passing the Karabin camera. We collected data from over 95% of vehicle models in the country's market, covering nearly 700 models. I trained two main models for front and rear views, achieving 97% accuracy with a medium-weight CNN model. This project is a significant achievement in our country, with the model being retrained monthly to include new vehicle models.
+<p style="text-align: justify;">I spearheaded the development of a model recognition system for vehicles passing the Karabin camera. We collected data from over 95% of vehicle models in the country's market, covering nearly 700 models. I trained two main models for front and rear views, achieving 97% accuracy with a medium-weight CNN model. This project is a significant achievement in our country, with the model being retrained monthly to include new vehicle models.</p>
 
-Working on this project was a great honor for me, as it contributes to making roads safer, preventing car crashes, and preserving lives by controlling vehicle speed.</p>
-
-![karabin-4](/images/karabin-4.jpg)
+<p style="text-align: justify;">Working on this project was a great honor for me, as it contributes to making roads safer, preventing car crashes, and preserving lives by controlling vehicle speed.</p>
