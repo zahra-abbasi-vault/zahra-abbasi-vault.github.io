@@ -4,12 +4,12 @@ collection: projects
 category: projects
 permalink: /project/Karabin-Embedded-Camera
 excerpt: 'The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR.'
-date: 2023-10-01
+date: 2023-12-30
 des : 2023 , Pouya Fanavaran Kosar
 
 ---
 
-<p style="text-align: justify;">The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR. The process of LPR is done exclusively and independently of any external processing unit, requiring only a power supply. Its output includes license plates and images of passing vehicles. <a href="https://www.karabin.ir/en/lpr-camera" target="_blank">project-link</a></p>
+<p style="text-align: justify;">The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR. The process of LPR is done exclusively and independently of any external processing unit, requiring only a power supply. Its output includes license plates and images of passing vehicles. <a href="https://www.karabin.ir/en/lpr-camera" target="_blank">Project Website</a></p>
 
 <p style="text-align: justify;"> I contributed to the improvement of this system by improving the accuracy of persian plate recognition, vehicle type and vehicle model clasdification,</p>
 
