@@ -149,8 +149,7 @@ redirect_from:
 ---
 
 ### Sampi Sorter for PFK Co.
-Contributed to the development of The Sampi Sorter, an intelligent agricultural grain sorter. In this industrial project, I served as an AI developer. My responsibilities included training a YOLO model for accurate bean detection and subsequently training a CNN to classify each detected bean into its respective category. This project presented challenging tasks in both detection and classification, ultimately improving efficiency in the sorting process.
-
+Contributed to the development of The Sampi Sorter, an intelligent agricultural grain sorter. In this industrial project, I served as an AI developer. My responsibilities included training a YOLO model for accurate bean detection and subsequently training a CNN to classify each detected bean into its respective category.
 [Project Website: www.sorter.ir](https://www.sorter.ir/en/){:target="_blank"}
 
 ### Smart Pedestrian Crosswalk for PFK Co.
