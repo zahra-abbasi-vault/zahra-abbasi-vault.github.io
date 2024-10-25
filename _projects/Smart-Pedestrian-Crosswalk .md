@@ -25,10 +25,10 @@ des : 2023-2024 , Pouya Fanavaran Kosar
 
 
 ### Output of the Deep Stream detection model
-![safecrosswalk](images/safecrosswalk.PNG)
+![safecrosswalk](/images/safecrosswalk.PNG)
 
 
 
 ### Project Demo 
-![safecrosswalk2](images/safecrosswalk2.png)
+![safecrosswalk2](/images/safecrosswalk2.png)
 
