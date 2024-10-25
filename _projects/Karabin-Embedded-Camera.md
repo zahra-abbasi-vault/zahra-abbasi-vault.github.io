@@ -19,7 +19,7 @@ des : 2023 , Pouya Fanavaran Kosar
 <p style="text-align: justify;">I developed a CNN model achieving 98% accuracy in recognizing 10 numbers and over 25 Persian letters. Previously, the system relied on pure image processing algorithms. My contribution significantly enhanced plate reading accuracy through deep learning.</p>
 
 
-<img src="/images/karabin.jpg" alt="karabin-3" style="width: 20%; height: auto; display: block; margin: 0 auto;">
+<img src="/images/karabin.jpg" alt="karabin-3" style="width: 25%; height: auto; display: block; margin: 0 auto;">
 
 ### Vehicle Type Classification
 <p style="text-align: justify;">I implemented a classification system for vehicles into six categories: sedan, bus, minibus, truck, pickup, and van. This system works for both front and rear views, using a lightweight CNN model deployable on commercial embedded processors at over 20 FPS. The classification accuracy exceeds 98%.</p>
