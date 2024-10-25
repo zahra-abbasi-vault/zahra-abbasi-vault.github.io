@@ -12,6 +12,8 @@ des : 2023-2024 , Pouya Fanavaran Kosar
 
 <p style="text-align: justify;">From the beginning of the project to the end, I was responsible for the development of the system. I implemented the pedestrian detection model using Deep Stream and integrated a radar in my solution for vehicle detection. Finally, I developed a decision-making algorithm for the system. I also developed a UI for the system using PyQt5.</p>
 
+
+
 ## Challenges
 <ul>
 <li><p style="text-align: justify;">The challenges I faced were related to the hardware limitations of the Jetson Orin Nano and the need to optimize the system for real-time performance. However, through careful algorithm optimization and system integration, I successfully met these challenges and delivered a robust solution that met the project requirements.</p></li>
