@@ -3,7 +3,7 @@ title: "Karabin Embedded Camera"
 collection: projects
 category: projects
 permalink: /project/Karabin-Embedded-Camera
-excerpt: 'Karabin is an embedded ANPR camera that excels in accurately reading license plates and estimating vehicle speeds. It's a self-contained system that only requires power supply, handling all image processing and internal control functions.'
+excerpt: 'Karabin is an embedded ANPR camera that excels in accurately reading license plates and estimating vehicle speeds.'
 date: 2023-12-30
 des : 2023 , Pouya Fanavaran Kosar
 
