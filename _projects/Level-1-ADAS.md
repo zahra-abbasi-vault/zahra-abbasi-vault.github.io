@@ -1,5 +1,5 @@
 ---
-title: "Level-1-ADAS"
+title: "Level-1 ADAS"
 collection: projects
 category: projects
 permalink: /project/Level-1-ADAS

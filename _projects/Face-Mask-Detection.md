@@ -1,5 +1,5 @@
 ---
-title: "Face-Mask-Detection"
+title: "Face Mask Detection"
 collection: projects
 category: projects
 permalink: /project/Face-Mask-Detection
