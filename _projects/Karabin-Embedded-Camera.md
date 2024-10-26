@@ -9,10 +9,10 @@ des : 2023 , Pouya Fanavaran Kosar
 
 ---
 
-<p style="text-align: justify;">The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR. The process of LPR is done exclusively and independently of any external processing unit, requiring only a power supply. Its output includes license plates and images of passing vehicles 
+<p style="text-align: justify;">The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR. The process of LPR is done exclusively and independently of any external processing unit, requiring only a power supply. Its output includes license plates and images of passing vehicles.
 <a href="https://www.cam2vision.com/products/karabin/" target="_blank">Project Website</a></p>
 
-<p style="text-align: justify;"> I contributed to the improvement of this system by improving the accuracy of persian plate recognition, vehicle type and vehicle model clasdification,</p>
+<p style="text-align: justify;"> I contributed to the improvement of this system by improving the accuracy of persian plate recognition, vehicle type and vehicle model clasdification.</p>
 
 
 <img src="/images/Karabin.png" alt="karabin" style="width: 100%; height: auto; display: block; margin: 0 auto;">
