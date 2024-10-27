@@ -3,18 +3,21 @@ title: "Karabin Embedded Camera"
 collection: projects
 category: projects
 permalink: /project/Karabin-Embedded-Camera
-excerpt: 'Karabin is an embedded ANPR camera that excels in accurately reading license plates and estimating vehicle speeds.'
+excerpt: 'Karabin embedded ANPR camera is used in a wide range of intelligent transportation system projects.'
 date: 2023-12-30
 des : 2023 , Pouya Fanavaran Kosar
 
 ---
+## Overview
 
-<p style="text-align: justify;">The Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR. The process of LPR is done exclusively and independently of any external processing unit, requiring only a power supply. Its output includes license plates and images of passing vehicles.
+<p style="text-align: justify;">The Karabin embedded ANPR camera is used in a wide range of ITS projects. Karabin Embedded LPR Camera is a comprehensive all-in-one system, featuring color and infrared cameras, image processing, control and power electronic units, and a specialized lighting module for ANPR.
 <a href="https://www.cam2vision.com/products/karabin/" target="_blank">Project Website</a></p>
 
-<p>Karabin is now being use all around Iran, in wide range of <a href="https://www.cam2vision.com/products/karabin/applications/" target="_blank">applications</a> and it has gained a great reputation. Additionally, it has received many awards and certifications over the years including European Union Standard.</p>
+### Applications and Awards
 
-<p style="text-align: justify;"> I contributed to the improvement of this system by improving the accuracy of persian plate recognition, vehicle type and vehicle model clasdification.</p>
+<p>Karabin is now being use all around Iran, more than 1200 units installed, in a wide range of <a href="https://www.cam2vision.com/products/karabin/applications/" target="_blank">applications</a> and it has gained a great reputation. Additionally, it has received many awards and certifications over the years including European Union Standard.</p>
+
+<p style="text-align: justify;"> I contributed to the improvement of this system by improving the accuracy of persian plate recognition, vehicle type and vehicle model classification.</p>
 
 
 <img src="/images/Karabin.png" alt="karabin" style="width: 100%; height: auto; display: block; margin: 0 auto;">
