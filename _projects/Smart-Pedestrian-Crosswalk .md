@@ -4,7 +4,7 @@ collection: projects
 category: projects
 permalink: /project/Smart-Pedestrian-Crosswalk 
 excerpt: 'This system is designed to enhance road safety by issuing timely warnings to both pedestrians and drivers, ensuring a proactive approach to preventing potential accidents at crosswalks.'
-date: 2024-01-01
+date: 2023-11-01
 des : 2023-2024 , Pouya Fanavaran Kosar 
 
 ---
