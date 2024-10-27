@@ -5,7 +5,7 @@ category: projects
 permalink: /project/Smart-Pedestrian-Crosswalk 
 excerpt: 'This system is designed to enhance road safety by issuing timely warnings to both pedestrians and drivers, ensuring a proactive approach to preventing potential accidents at crosswalks.'
 date: 2023-11-01
-des : 2023-2024 , Pouya Fanavaran Kosar 
+des : 2023 -2024 , Pouya Fanavaran Kosar 
 
 ---
 <p style="text-align: justify;">Engineered a comprehensive safety system utilizing Deep Stream for precise pedestrian detection on crosswalks and radar technology to identify approaching vehicles. Implemented on Jetson Orin Nano, this system is designed to enhance road safety by issuing timely warnings to both pedestrians and drivers, ensuring a proactive approach to preventing potential accidents at crosswalks.</p>

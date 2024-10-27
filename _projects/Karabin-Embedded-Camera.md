@@ -5,7 +5,7 @@ category: projects
 permalink: /project/Karabin-Embedded-Camera
 excerpt: 'Karabin embedded ANPR camera is used in a wide range of intelligent transportation system projects.'
 date: 2023-12-30
-des : 2023 , Pouya Fanavaran Kosar
+des : 2023 - 2024, Pouya Fanavaran Kosar
 
 ---
 
