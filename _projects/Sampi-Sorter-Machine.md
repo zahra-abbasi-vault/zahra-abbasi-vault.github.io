@@ -10,10 +10,11 @@ des : 2023 - present , Pouya Fanavaran Kosar
 ---
 
 
-
+## Overview
 <p style="text-align: justify;">The Sampi Sorter is a state-of-the-art sorting machine that leverages artificial intelligence to precisely categorize grains and agricultural products according to their visual properties. <a href="https://www.sorter.ir/en/" target="_blank">Project Website</a></p>
 
-![Sampi Sorter Machine](/images/sorchine.png)
+
+<img src="/images/sorchine.png" alt="karabin" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 
 <p style="text-align: justify;">In this industrial project, I served as an AI developer. My responsibilities included training high-accuracy models for accurate bean detection and classification.<br/> I successfully fine-tuned the YOLOv8 model with 99% accuracy in bean detection. Subsequently, for each type of bean, I implemented a CNN model for high-accuracy classification. I was part of this project for multiple products such as lentils, Cowpea, and coffee beans.</p>
 
