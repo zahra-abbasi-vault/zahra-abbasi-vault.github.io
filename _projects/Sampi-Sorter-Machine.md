@@ -30,7 +30,9 @@ des : 2023 - present , Pouya Fanavaran Kosar
 ### Classification Model Output
 
 
-<p style="text-align: justify;">Below are some of the outputs of the classification models. The images are of the latest product, coffee beans, that were added to the system. I trained different models for each type of the defect.</p>
+<p style="text-align: justify;">Here are some outputs from the classification models. The images show the latest product, coffee beans, that were added to the system. I trained different models for each type of defect.</p>
+<br/>
+
 ### Detecting Coffee Berry Borer Damaged
 
 <p style="text-align: justify;">The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers.</p>
