@@ -31,23 +31,22 @@ des : 2023 - present , Pouya Fanavaran Kosar
 
 
 <p style="text-align: justify;">Below are some of the outputs of the classification models. The images are of the latest product, coffee beans, that were added to the system. I trained different models for each type of the defect.</p>
-
-### Detecting Shell
-<p style="text-align: justify;">Shell is a common defect where coffee beans have a large cavity similar to a shell.</p>
-<img src="/images/shell_positive_1.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
-
-
-<img src="/images/shell_positive_2.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
-
-
-
-
 ### Detecting Coffee Berry Borer Damaged
 
 <p style="text-align: justify;">The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers.</p>
 <img src="/images/CBB-positive-1.bmp" alt="cbb" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 
 <img src="/images/CBB-positive-2.bmp" alt="cbb" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+
+
+### Detecting Shell
+<p style="text-align: justify;">Shell is a common defect where coffee beans have a large cavity similar to a shell.</p>
+<img src="/images/shell_positive_1.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+<img src="/images/shell_positive_2.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+
 
 
 
