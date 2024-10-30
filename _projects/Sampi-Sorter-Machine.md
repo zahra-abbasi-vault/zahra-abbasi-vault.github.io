@@ -16,10 +16,12 @@ des : 2023 - present , Pouya Fanavaran Kosar
 
 <img src="/images/sorchine.png" alt="karabin" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 
+## My Contributions
+
 <p style="text-align: justify;">In this industrial project, I served as an AI developer. My responsibilities included training high-accuracy models for accurate bean detection and classification.<br/> I successfully fine-tuned the YOLOv8 model with 99% accuracy in bean detection. Subsequently, for each type of bean, I implemented a CNN model for high-accuracy classification. I was part of this project for multiple products such as lentils, Cowpea, and coffee beans.</p>
 
 
-## Detection Model Output
+### Detection Model Output
 
 <p style="text-align: justify;">One of the challenges I faced was detecting coffee beans in the image below. Due to the hardware limitations, the model's input size couldn't be increased much, and for the tracking algorithm, the box loss needed to decrease as much as possible. In the end, the model achieved 99% accuracy in detection.</p>
 
@@ -27,12 +29,12 @@ des : 2023 - present , Pouya Fanavaran Kosar
 ![Sampi Sorter Machine](/images/Sorter_Yolo.bmp)
 
 
-## Classification Model Output
+### Classification Model Output
 
 
 <p style="text-align: justify;">Below are some of the outputs of the classification models. The images are of the latest product, coffee beans, that were added to the system. I trained different models for each type of the defect.</p>
 
-### Detecting Shell
+#### Detecting Shell
 <p style="text-align: justify;">Shell is a common defect where coffee beans have a large cavity similar to a shell.</p>
 
 ![Coffee Shell detection](/images/shell_positive_1.bmp)
@@ -41,7 +43,7 @@ des : 2023 - present , Pouya Fanavaran Kosar
 ![Coffee Shell detection](/images/shell_positive_2.bmp)
 
 
-### Detecting Coffee Berry Borer Damaged
+#### Detecting Coffee Berry Borer Damaged
 
 <p style="text-align: justify;">The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers.</p>
 
