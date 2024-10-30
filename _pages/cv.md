@@ -30,11 +30,11 @@ redirect_from:
   <em>Pooya Fanavaran Kosar (Tehran)</em>
 </p>
 
-- Machine Learning Engineer and Python Developer 
-- Developed and optimized Computer Vision solutions for real-world applications
-- Proficient in training Deep Learning models for various Computer Vision tasks
-- Experience in working with NVIDIA's recent frameworks
-- Developed and deployed a real-time object detection system
+- Developed object detection and classification models for agricultural sorters with more than 0.98 accuracy 
+- Designed and trained CNN-based classification models for plate and vehicle recognition
+- Contributed to the level-1 ADAS project, by developing solutions for HBA and FCW
+- Designed and developed software architecture with Gstreamer for the Safe Pedestrian Crosswalk System
+- Developed backend solution for LPR application
 
 ## Research Interests
 ---
