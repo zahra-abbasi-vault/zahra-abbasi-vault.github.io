@@ -142,8 +142,8 @@ redirect_from:
 ## Online Courses
 ---
 
-- Advanced Learning algorithms from Coursera
-- Supervised Machine Learning: Regression and Classification from Coursera
+- Advanced Learning algorithms from Coursera <i><a href="https://coursera.org/share/ab0728e7f48e6b5e80723a7c6b996936"> certificate </a></i>
+- Supervised Machine Learning: Regression and Classification from Coursera  <i><a href="https://coursera.org/share/4eb3036fd7a6a80b875c46e88e15aeae"> certificate </a></i>
 
 ## Projects
 
