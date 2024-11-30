@@ -32,5 +32,5 @@ In this role, I successfully developed and deployed machine learning models for 
 I’m Zahra Abbasi, a Machine Learning Engineer with a passion for AI. I graduated with a Bachelor's degree in Computer Engineering from Alzahra University in Tehran, Iran, in September 2023. </div>
 
 <div class="justify-text">
-Shortly after graduating, I began working as a Machine Learning Engineer at PFK. In this role, I successfully developed and deployed machine learning models for various applications, including object detection and image classification.You can find more details about my work experience in the <a href='/projects'>Projects</a> section.
+Shortly after graduating, I began working as a Machine Learning Engineer at PFK. In this role, I successfully developed and deployed machine learning models for various applications, including object detection and image classification. You can find more details about my work experience in the <a href='/projects'>Projects</a> section.
 </div>
