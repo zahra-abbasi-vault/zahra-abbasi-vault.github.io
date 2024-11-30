@@ -29,7 +29,8 @@ In this role, I successfully developed and deployed machine learning models for 
 </div> -->
 
 <div class="justify-text">
-I’m Zahra Abbasi, a Machine Learning Engineer with a passion for AI. I graduated with a Bachelor's degree in Computer Engineering from Alzahra University in Tehran, Iran, in September 2023. <br/>
-During my last semester, I completed a part-time internship at Pouya Fanavaran Kosar, a company specializing in machine vision technology.<br/>
-Shortly after graduating, I began working as a Machine Learning Engineer at PFK. In this role, I successfully developed and deployed machine learning models for various applications, including object detection and image classification. <br/>You can find more details about my work experience in the <a href='/projects'>Projects</a> section.
+I’m Zahra Abbasi, a Machine Learning Engineer with a passion for AI. I graduated with a Bachelor's degree in Computer Engineering from Alzahra University in Tehran, Iran, in September 2023. </div>
+
+<div class="justify-text">
+Shortly after graduating, I began working as a Machine Learning Engineer at PFK. In this role, I successfully developed and deployed machine learning models for various applications, including object detection and image classification.You can find more details about my work experience in the <a href='/projects'>Projects</a> section.
 </div>
