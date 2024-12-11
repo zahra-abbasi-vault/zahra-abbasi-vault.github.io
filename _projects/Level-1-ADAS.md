@@ -54,12 +54,6 @@ A custom dataset was created due to the lack of pre-existing datasets for this a
 
 
 
-
-## Challenges
-
-<p style="text-align: justify;">Due to the hardware limitations of the Jetson Nano, I had to optimize the model size and the inference time to meet the real-time requirements. Furthermore, situable datasets were not available for training the HBA model , so I had to create my own dataset. For this perpous I used CVAT annotation tool to lable objects (such as street lights , signs , vehicles front and rear lights , etc). Thanks to our annotating team, the dataset was ready in a short time.</p>
-
-### Annotation
 <img src="/images/hba-7.PNG" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
 
 
