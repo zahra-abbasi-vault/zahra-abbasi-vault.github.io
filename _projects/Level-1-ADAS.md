@@ -52,8 +52,6 @@ A custom dataset was created due to the lack of pre-existing datasets for this a
 
 <img src="/images/hba-1.jpg" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
 
-
-
 <img src="/images/hba-7.PNG" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
 
 
