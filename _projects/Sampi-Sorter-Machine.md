@@ -14,7 +14,7 @@ des : 2023 - present , Pouya Fanavaran Kosar
 ## 1. Introduction  
 The Sampi Sorter is a cutting-edge sorting machine designed to meet the agricultural industry's diverse needs. It utilizes advanced image processing and artificial intelligence (AI) to classify agricultural products like grains, nuts, and dried fruits. The system identifies features such as size, shape, and color to separate products into "desired" and "undesired" categories.  
 
-This project highlights my contributions as the lead AI developer, focusing on optimizing the Sampi Sorter's detection and classification capabilities using computer vision and machine learning models.<a href="https://www.sorter.ir/en/" target="_blank">Project Website</a>
+This report highlights my contributions as the lead AI developer, focusing on optimizing the Sampi Sorter's detection and classification capabilities using computer vision and machine learning models.<a href="https://www.sorter.ir/en/" target="_blank">Project Website</a>
 
 <img src="/images/sorchine.png" alt="karabin" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 
