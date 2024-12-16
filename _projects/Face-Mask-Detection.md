@@ -9,7 +9,7 @@ des : 2023 , Bachelor's Degree Project
 ---
 
 
-<div style="text-align: justify;">
+
 
 ## 1. Introduction
 
@@ -86,4 +86,3 @@ Several areas could be explored for future improvements:
 1. **OpenCV documentation.** (n.d.). Haar Cascade Classifier. Retrieved from [https://docs.opencv.org/4.x/d2/d99/tutorial_js_face_detection.html](https://docs.opencv.org/4.x/d2/d99/tutorial_js_face_detection.html)
 2. **TensorFlow documentation.** (n.d.). CNN tutorial. Retrieved from [https://www.tensorflow.org/guide/intro_to_modules](https://www.tensorflow.org/guide/intro_to_modules)
 3. **Keras documentation.** (n.d.). Building a CNN. Retrieved from [https://keras.io/guides/sequential_model/](https://keras.io/guides/sequential_model/)
-</div>
