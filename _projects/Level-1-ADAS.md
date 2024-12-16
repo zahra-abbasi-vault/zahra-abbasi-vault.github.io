@@ -17,6 +17,9 @@ des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
 
 <p style="text-align: justify;">The system successfully passed testing scenarios, achieving high-performance marks. This report outlines the design and development of the system, with a particular focus on my contributions to the CNN-based classification and decision-making algorithms for High Beam Assistance (HBA), as well as the DeepStream-based vehicle and pedestrian detection for Forward Collision Warning (FCW). Additionally, it discusses the challenges encountered during the project and the innovative solutions that were implemented to address them.</p>
 
+<img src="/images/hba-1.jpg" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
+
+
 ## 2. System Overview
 
 ### 2.1 High Beam Assist (HBA)
@@ -90,6 +93,9 @@ des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
 <p style="text-align: justify;"><strong>Challenge</strong>: Lack of suitable datasets for HBA.</p>
 <p style="text-align: justify;"><strong>Solution</strong>: Created a custom dataset by placing the camera in the car and recording data while driving over 3 thousand kilometers at night and using multiple road types. Then, using CVAT, the frames are labeled with relevant features to meet project requirements.</p>
 
+<img src="/images/hba-7.PNG" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
+
+
 ### 5.3 Localization Challenges
 
 <p style="text-align: justify;"><strong>Challenge</strong>: Ensuring compatibility of pre-trained models with local traffic conditions.</p>
@@ -118,9 +124,7 @@ des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
 2. CVAT Annotation Tool Documentation Retrieved from <a href = "https://opencv.github.io/cvat/"> link</a>
 3. TrafficCamNet Model Details <a href="https://docs.nvidia.com/tao/tao-toolkit-archive/tao-40/text/model_zoo/cv_models/trafficcamnet.html"> link </a>
 
-<img src="/images/hba-1.jpg" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
 
-<img src="/images/hba-7.PNG" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
 
 
 
