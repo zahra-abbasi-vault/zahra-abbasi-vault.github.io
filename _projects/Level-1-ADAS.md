@@ -9,7 +9,6 @@ des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
 
 ---
 
-# Work Sample 1: Level-1 ADAS Project
 
 ## 1. Introduction
 
