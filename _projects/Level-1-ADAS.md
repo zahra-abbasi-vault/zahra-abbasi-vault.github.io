@@ -17,8 +17,6 @@ des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
 
 <p style="text-align: justify;">The system successfully passed testing scenarios, achieving high-performance marks. This report outlines the design and development of the system, with a particular focus on my contributions to the CNN-based classification and decision-making algorithms for High Beam Assistance (HBA), as well as the DeepStream-based vehicle and pedestrian detection for Forward Collision Warning (FCW). Additionally, it discusses the challenges encountered during the project and the innovative solutions that were implemented to address them.</p>
 
-<img src="/images/hba-1.jpg" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
-
 
 ## 2. System Overview
 
@@ -32,6 +30,8 @@ des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
   3. Road lights and random light reflections</p>
 
 - <p style="text-align: justify;"><strong>Implementation</strong>: A custom Convolutional Neural Network (CNN) model was developed for light classification and optimized for real-time inference on NVIDIA Jetson Nano hardware.</p>
+
+<img src="/images/hba-1.jpg" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
 
 ### 2.2 Forward Collision Warning (FCW)
 
