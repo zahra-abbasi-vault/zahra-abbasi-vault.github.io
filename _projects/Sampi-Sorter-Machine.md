@@ -57,6 +57,7 @@ des: 2023 - present, Pouya Fanavaran Kosar
 <img src="/images/shell_positive_2.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 
 #### <p style="text-align: justify;"> Shell is a common defect where coffee beans have a large cavity similar to a shell.</p>
+
 ### 3.3. Defect Identification
 
 <p style="text-align: justify;">In addition to general product sorting, the system was designed to identify specific defects like the Coffee Berry Borer (CBB) in coffee beans and shell defects in coffee beans. These defects are common and can significantly affect the quality of the product.</p>
@@ -89,8 +90,3 @@ des: 2023 - present, Pouya Fanavaran Kosar
 - <p style="text-align: justify;"><strong>Expanded Classification</strong>: Supporting more product types and defect categories to enhance sorting capabilities.</p>
 - <p style="text-align: justify;"><strong>System Optimization</strong>: Further optimize the system to work on lower-end hardware, making it more accessible for small-scale agricultural operations.</p>
 
-## 8. References
-
-1. <strong>YOLOv8 Documentation.</strong> (n.d.). YOLOv8: Real-time Object Detection. Retrieved from [link](https://github.com/ultralytics/yolov8)
-2. <strong>TensorFlow Documentation.</strong> (n.d.). Convolutional Neural Networks. Retrieved from [link](https://www.tensorflow.org/tutorials/images/cnn)
-3. <strong>Keras Documentation.</strong> (n.d.). Building CNN Models. Retrieved from [link](https://keras.io/guides/sequential_model/)
