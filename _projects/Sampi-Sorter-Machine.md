@@ -48,7 +48,11 @@ des: 2023 - present, Pouya Fanavaran Kosar
 
 <p style="text-align: justify;">These classifiers achieved high precision, ensuring accurate sorting based on product quality standards.</p>
 
-#### <p style="text-align: justify;">The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers.</p>
+<img src="/images/CBB-positive-1.bmp" alt="cbb" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+<img src="/images/CBB-positive-2.bmp" alt="cbb" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+#### The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers.
 
 
 
@@ -56,7 +60,7 @@ des: 2023 - present, Pouya Fanavaran Kosar
 
 <img src="/images/shell_positive_2.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 
-#### <p style="text-align: justify;"> Shell is a common defect where coffee beans have a large cavity similar to a shell.</p>
+#### Shell is a common defect where coffee beans have a large cavity similar to a shell.
 
 ### 3.3. Defect Identification
 
