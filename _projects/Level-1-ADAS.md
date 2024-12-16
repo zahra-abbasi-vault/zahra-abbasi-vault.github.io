@@ -121,7 +121,7 @@ des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
 ## 8. References
 
 1. NVIDIA DeepStream SDK Documentation  <a href = "https://developer.nvidia.com/deepstream-sdk"> link</a>
-2. CVAT Annotation Tool Documentation Retrieved from <a href = "https://opencv.github.io/cvat/"> link</a>
+2. CVAT Annotation Tool Documentation <a href = "https://opencv.github.io/cvat/"> link</a>
 3. TrafficCamNet Model Details <a href="https://docs.nvidia.com/tao/tao-toolkit-archive/tao-40/text/model_zoo/cv_models/trafficcamnet.html"> link </a>
 
 

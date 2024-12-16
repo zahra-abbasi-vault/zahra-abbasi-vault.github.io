@@ -80,6 +80,6 @@ des : 2023 , Bachelor's Degree Project
 
 ## 8. References
 
-1. <strong>OpenCV documentation.</strong> (n.d.). Haar Cascade Classifier. Retrieved from <a href="https://docs.opencv.org/4.x/d2/d99/tutorial_js_face_detection.html">https://docs.opencv.org/4.x/d2/d99/tutorial_js_face_detection.html</a>
-2. <strong>TensorFlow documentation.</strong> (n.d.). CNN tutorial. Retrieved from <a href="https://www.tensorflow.org/guide/intro_to_modules">https://www.tensorflow.org/guide/intro_to_modules</a>
-3. <strong>Keras documentation.</strong> (n.d.). Building a CNN. Retrieved from <a href="https://keras.io/guides/sequential_model/">https://keras.io/guides/sequential_model/</a>
+1. <strong>OpenCV documentation.</strong> (n.d.). Haar Cascade Classifier. Retrieved from <a href="https://docs.opencv.org/4.x/d2/d99/tutorial_js_face_detection.html">link</a>
+2. <strong>TensorFlow documentation.</strong> (n.d.). CNN tutorial. Retrieved from <a href="https://www.tensorflow.org/guide/intro_to_modules">link</a>
+3. <strong>Keras documentation.</strong> (n.d.). Building a CNN. Retrieved from <a href="https://keras.io/guides/sequential_model/">link</a>
