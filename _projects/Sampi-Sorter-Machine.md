@@ -44,9 +44,9 @@ Key steps in development included:
 <p style="text-align: justify;">Following detection, convolutional neural networks (CNNs) were used to classify products based on defects. Separate models were developed for each product type, such as lentils, cowpeas, and coffee beans.  </p>
 
 Key steps included:  
-- **Architecture Design**:<p style="text-align: justify;"> CNNs were configured to extract relevant features from product images, such as broken kernels or discoloration.</p>
-- **Training and Evaluation**:<p style="text-align: justify;"> Models were trained on labeled datasets and tested for generalization using unseen data.</p>
-- **Optimization**:<p style="text-align: justify;"> Hyperparameter tuning refined the models to minimize errors and improve classification accuracy.</p>
+- **Architecture Design**: <p style="text-align: justify;"> CNNs were configured to extract relevant features from product images, such as broken kernels or discoloration.</p>
+- **Training and Evaluation**: <p style="text-align: justify;"> Models were trained on labeled datasets and tested for generalization using unseen data.</p>
+- **Optimization**: <p style="text-align: justify;"> Hyperparameter tuning refined the models to minimize errors and improve classification accuracy.</p>
 
 <p style="text-align: justify;">These classifiers achieved high precision, ensuring the accurate sorting of products based on quality standards.  </p>
 
