@@ -1,3 +1,13 @@
+---
+title: "Level-1 ADAS"
+collection: projects
+category: projects
+permalink: /project/Level-1-ADAS
+excerpt: 'Level-1 Advanced Driver Assistance System'
+date: 2023-10-01
+des : 2023 , Pouya Fanavaran Kosar - SAIPA CO.
+
+---
 # Work Sample 1: Level-1 ADAS Project
 
 ## 1. Introduction
@@ -151,7 +161,6 @@ This project showcased the potential of combining AI, edge computing, and custom
 1. NVIDIA DeepStream SDK Documentation Retrieved from DeepStream page
 2. CVAT Annotation Tool Documentation Retrieved from [https://opencv.github.io/cvat/](https://opencv.github.io/cvat/)
 3. TrafficCamNet Model Details Retrieved from this link
-
 
 
 <img src="/images/hba-1.jpg" alt="HBA" style="width: 95%; height: auto; display: block; margin: 0 auto;">
