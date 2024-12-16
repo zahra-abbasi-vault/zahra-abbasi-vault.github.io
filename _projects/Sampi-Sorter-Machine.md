@@ -48,31 +48,25 @@ des: 2023 - present, Pouya Fanavaran Kosar
 
 <p style="text-align: justify;">These classifiers achieved high precision, ensuring accurate sorting based on product quality standards.</p>
 
-<img src="/images/CBB-positive-1.bmp" alt="cbb" style="width: 90%; height: auto; display: block; margin: 0 auto;">
-
-<img src="/images/CBB-positive-2.bmp" alt="cbb" style="width: 90%; height: auto; display: block; margin: 0 auto;">
-
-#### The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers.
-
-
-
-<img src="/images/shell_positive_1.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
-
-<img src="/images/shell_positive_2.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
-
-#### Shell is a common defect where coffee beans have a large cavity similar to a shell.
-
-### 3.3. Defect Identification
-
-<p style="text-align: justify;">In addition to general product sorting, the system was designed to identify specific defects like the Coffee Berry Borer (CBB) in coffee beans and shell defects in coffee beans. These defects are common and can significantly affect the quality of the product.</p>
-
 ## 4. Results and Evaluation
 
 <p style="text-align: justify;">The integration of AI into the Sampi Sorter resulted in significant improvements in performance:</p>
 - <p style="text-align: justify;"><strong>Detection</strong>: The YOLOv8 model achieved <strong>99%</strong> accuracy in detecting agricultural products, even under varied conditions.</p>
 - <p style="text-align: justify;"><strong>Classification</strong>: The CNN classifiers accurately categorized defects, ensuring that only high-quality products were selected.</p>
-
 <p style="text-align: justify;">These advancements have made the Sampi Sorter a highly efficient tool for real-time agricultural sorting, providing both accuracy and minimal product damage.</p>
+
+<img src="/images/CBB-positive-1.bmp" alt="cbb" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+<img src="/images/CBB-positive-2.bmp" alt="cbb" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+#### The Coffee Berry Borer, or Hypthenemus Hampei, is one of the most significant pest problems for coffee farmers.
+<br/>
+<img src="/images/shell_positive_1.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+<img src="/images/shell_positive_2.bmp" alt="shell" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
+#### Shell is a common defect where coffee beans have a large cavity similar to a shell.
+<br/>
 
 ## 5. Challenges and Solutions
 
