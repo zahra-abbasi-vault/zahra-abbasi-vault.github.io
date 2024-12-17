@@ -14,7 +14,7 @@ des: 2023 - present, Pouya Fanavaran Kosar
 
 <p style="text-align: justify;">This report highlights my contributions as the lead AI developer, focusing on optimizing the Sampi Sorter's detection and classification capabilities using computer vision and machine learning models. <a href="https://www.sorter.ir/en/" target="_blank">Project Website</a></p>
 
-<img src="images/sorter-2.jpg" alt="sorter" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+<img src="/images/sorter-2.jpg" alt="sorter" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 
 ## 2. System Overview
 
