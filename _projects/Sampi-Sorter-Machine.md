@@ -14,6 +14,8 @@ des: 2023 - present, Pouya Fanavaran Kosar
 
 <p style="text-align: justify;">This report highlights my contributions as the lead AI developer, focusing on optimizing the Sampi Sorter's detection and classification capabilities using computer vision and machine learning models. <a href="https://www.sorter.ir/en/" target="_blank">Project Website</a></p>
 
+<img src="images/sorter-2.jpg" alt="sorter" style="width: 90%; height: auto; display: block; margin: 0 auto;">
+
 ## 2. System Overview
 
 <p style="text-align: justify;">The Sampi Sorter operates in multiple stages:</p>
@@ -81,10 +83,5 @@ des: 2023 - present, Pouya Fanavaran Kosar
 
 <p style="text-align: justify;">This project demonstrates the transformative potential of AI in agriculture. Future work could involve expanding classification capabilities, improving defect detection, and increasing the range of agricultural products supported by the system.</p>
 
-## 7. Future Work
 
-<p style="text-align: justify;">Future improvements for the Sampi Sorter could include:</p>
-- <p style="text-align: justify;"><strong>Advanced Detection Algorithms</strong>: Incorporating more advanced detection methods like <strong>YOLOv4</strong> or <strong>RetinaNet</strong> to improve accuracy in difficult conditions.</p>
-- <p style="text-align: justify;"><strong>Expanded Classification</strong>: Supporting more product types and defect categories to enhance sorting capabilities.</p>
-- <p style="text-align: justify;"><strong>System Optimization</strong>: Further optimize the system to work on lower-end hardware, making it more accessible for small-scale agricultural operations.</p>
 
